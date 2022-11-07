@@ -1,0 +1,5 @@
+name,X,Y,thickness,logfile
+Well01,434030,5866930,3500,well01_GR.csv
+Cast01,514000,5836000,1314,Cast1_GR.csv
+Joll01,482600,5854820,2316,Jolly1_GR.csv
+Well04,480000,5844000,4746,well04_GR.csv
